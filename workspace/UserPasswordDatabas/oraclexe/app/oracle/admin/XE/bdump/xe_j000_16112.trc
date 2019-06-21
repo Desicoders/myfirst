@@ -1,0 +1,28 @@
+Dump file c:\oraclexe\app\oracle\admin\xe\bdump\xe_j000_16112.trc
+Wed May 15 00:58:49 2019
+ORACLE V10.2.0.1.0 - Production vsnsta=0
+vsnsql=14 vsnxtr=3
+Oracle Database 10g Express Edition Release 10.2.0.1.0 - Production
+Windows NT Version V6.2 
+CPU                 : 12 - type 586, 6 Physical Cores
+Process Affinity    : 0x00000000
+Memory (Avail/Total): Ph:4556M/16243M, Ph+PgF:3749M/31236M, VA:3133M/4095M
+Instance name: xe
+
+Redo thread mounted by this instance: 1
+
+Oracle process number: 19
+
+Windows thread id: 16112, image: ORACLE.EXE (J000)
+
+
+*** SERVICE NAME:(SYS$USERS) 2019-05-15 00:58:49.062
+*** SESSION ID:(37.1072) 2019-05-15 00:58:49.062
+ktsmgtur(): TUR was not tuned for 10812 secs
+*** 2019-05-15 05:47:00.392
+*** ACTION NAME:(GATHER_STATS_JOB) 2019-05-15 05:47:00.392
+*** MODULE NAME:(DBMS_SCHEDULER) 2019-05-15 05:47:00.392
+*** SERVICE NAME:(SYS$USERS) 2019-05-15 05:47:00.392
+*** SESSION ID:(37.1074) 2019-05-15 05:47:00.392
+ktsmgtur(): TUR was not tuned for 17292 secs
+ktsmg_advance_slot(): MMNL advances slot after 17352 seconds

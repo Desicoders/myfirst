@@ -1,0 +1,21 @@
+Dump file c:\oraclexe\app\oracle\admin\xe\bdump\xe_j000_13856.trc
+Mon Mar 18 15:39:24 2019
+ORACLE V10.2.0.1.0 - Production vsnsta=0
+vsnsql=14 vsnxtr=3
+Oracle Database 10g Express Edition Release 10.2.0.1.0 - Production
+Windows NT Version V6.2 
+CPU                 : 12 - type 586, 6 Physical Cores
+Process Affinity    : 0x00000000
+Memory (Avail/Total): Ph:10613M/16243M, Ph+PgF:11207M/19187M, VA:3133M/4095M
+Instance name: xe
+
+Redo thread mounted by this instance: 1
+
+Oracle process number: 19
+
+Windows thread id: 13856, image: ORACLE.EXE (J000)
+
+
+*** SERVICE NAME:(SYS$USERS) 2019-03-18 15:39:24.267
+*** SESSION ID:(25.33) 2019-03-18 15:39:24.267
+ktsmgtur(): TUR was not tuned for 1528 secs

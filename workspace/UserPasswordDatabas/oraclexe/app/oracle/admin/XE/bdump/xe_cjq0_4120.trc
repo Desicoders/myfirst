@@ -1,0 +1,41 @@
+Dump file c:\oraclexe\app\oracle\admin\xe\bdump\xe_cjq0_4120.trc
+Wed Jun 05 17:13:21 2019
+ORACLE V10.2.0.1.0 - Production vsnsta=0
+vsnsql=14 vsnxtr=3
+Oracle Database 10g Express Edition Release 10.2.0.1.0 - Production
+Windows NT Version V6.2 
+CPU                 : 12 - type 586, 6 Physical Cores
+Process Affinity    : 0x00000000
+Memory (Avail/Total): Ph:9017M/16228M, Ph+PgF:11569M/22116M, VA:3137M/4095M
+Instance name: xe
+
+Redo thread mounted by this instance: 1
+
+Oracle process number: 11
+
+Windows thread id: 4120, image: ORACLE.EXE (CJQ0)
+
+
+*** 2019-06-05 17:13:21.241
+*** SERVICE NAME:(SYS$BACKGROUND) 2019-06-05 17:13:21.137
+*** SESSION ID:(40.1) 2019-06-05 17:13:21.137
+ktsmgtur(): TUR was not tuned for 7545 secs
+ktsmg_advance_slot(): MMNL advances slot after 7993 seconds
+*** 2019-06-06 13:35:29.870
+ktsmgtur(): TUR was not tuned for 3374 secs
+ktsmg_advance_slot(): MMNL advances slot after 3921 seconds
+*** 2019-06-09 04:21:29.496
+ktsmgtur(): TUR was not tuned for 10810 secs
+ktsmg_advance_slot(): MMNL advances slot after 10881 seconds
+*** 2019-06-09 22:01:17.988
+ktsmgtur(): TUR was not tuned for 5928 secs
+ktsmg_advance_slot(): MMNL advances slot after 6068 seconds
+*** 2019-06-10 23:34:37.182
+ktsmgtur(): TUR was not tuned for 7248 secs
+ktsmg_advance_slot(): MMNL advances slot after 7468 seconds
+*** 2019-06-12 13:55:02.408
+ktsmgtur(): TUR was not tuned for 4592 secs
+ktsmg_advance_slot(): MMNL advances slot after 5092 seconds
+*** 2019-06-13 13:50:50.440
+ktsmgtur(): TUR was not tuned for 2420 secs
+ktsmg_advance_slot(): MMNL advances slot after 2441 seconds

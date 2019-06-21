@@ -1,0 +1,61 @@
+Dump file c:\oraclexe\app\oracle\admin\xe\bdump\xe_j000_64544.trc
+Thu Feb 21 06:29:37 2019
+ORACLE V10.2.0.1.0 - Production vsnsta=0
+vsnsql=14 vsnxtr=3
+Oracle Database 10g Express Edition Release 10.2.0.1.0 - Production
+Windows NT Version V6.2 
+CPU                 : 12 - type 586, 6 Physical Cores
+Process Affinity    : 0x00000000
+Memory (Avail/Total): Ph:5598M/16243M, Ph+PgF:3517M/18675M, VA:3115M/4095M
+Instance name: xe
+
+Redo thread mounted by this instance: 1
+
+Oracle process number: 23
+
+Windows thread id: 64544, image: ORACLE.EXE (J000)
+
+
+*** 2019-02-21 06:29:38.197
+*** ACTION NAME:(GATHER_STATS_JOB) 2019-02-21 06:29:37.173
+*** MODULE NAME:(DBMS_SCHEDULER) 2019-02-21 06:29:37.173
+*** SERVICE NAME:(SYS$USERS) 2019-02-21 06:29:37.173
+*** SESSION ID:(19.226) 2019-02-21 06:29:37.173
+ktsmgtur(): TUR was not tuned for 20548 secs
+ktsmg_advance_slot(): MMNL advances slot after 20893 seconds
+*** CLIENT ID:() 2019-02-21 06:29:39.934
+GATHER_STATS_JOB: Stopped by Scheduler.
+Consider increasing the maintenance window duration if this happens frequently.
+The following objects/segments were not analyzed due to timeout:
+  TABLE: "SYS"."PARTOBJ$".""
+  TABLE: "SYS"."STATS_TARGET$".""
+  TABLE: "SYS"."WRI$_OPTSTAT_TAB_HISTORY".""
+  TABLE: "SYS"."SCHEDULER$_JOB_RUN_DETAILS".""
+  TABLE: "SYS"."SCHEDULER$_GLOBAL_ATTRIBUTE".""
+  TABLE: "SYS"."WRI$_DBU_CPU_USAGE_SAMPLE".""
+  TABLE: "SYS"."WRH$_SGASTAT".""
+  TABLE: "SYS"."WRH$_SYS_TIME_MODEL".""
+  TABLE: "SYS"."WRH$_OSSTAT".""
+  TABLE: "SYS"."WRH$_ACTIVE_SESSION_HISTORY".""
+  TABLE: "SYS"."WRH$_TABLESPACE_STAT".""
+  TABLE: "SYS"."WRH$_SERVICE_WAIT_CLASS".""
+  TABLE: "SYS"."WRH$_ROWCACHE_SUMMARY".""
+  TABLE: "SYS"."WRH$_SERVICE_STAT".""
+  TABLE: "SYS"."MON_MODS_ALL$".""
+  TABLE: "SYS"."COL_USAGE$".""
+  TABLE: "SYS"."WRH$_SEG_STAT".""
+  TABLE: "SYS"."WRH$_SYSSTAT".""
+  TABLE: "SYS"."WRH$_SYSMETRIC_SUMMARY".""
+  TABLE: "SYS"."WRH$_PARAMETER".""
+  TABLE: "SYS"."WRI$_OPTSTAT_HISTHEAD_HISTORY".""
+  INDEX: "SYS"."I_OBJ#_INTCOL#".""
+  TABLE: "SYS"."WRH$_SEG_STAT_OBJ".""
+  TABLE: "SYS"."WRI$_OPTSTAT_IND_HISTORY".""
+  TABLE: "SYS"."HIST_HEAD$".""
+  TABLE: "SYS"."HISTGRM$".""
+  TABLE: "SYS"."WRH$_LATCH_MISSES_SUMMARY"."WRH$_LATCH__2881617654_0"
+  TABLE: "SYS"."WRH$_ACTIVE_SESSION_HISTORY"."WRH$_ACTIVE_2881617654_0"
+  TABLE: "SYS"."SEQ$".""
+  TABLE: "SYS"."TAB$".""
+error 1013 in job queue process
+ORA-01013: user requested cancel of current operation

@@ -1,0 +1,57 @@
+Dump file c:\oraclexe\app\oracle\admin\xe\bdump\xe_cjq0_7536.trc
+Sun Mar 03 12:02:58 2019
+ORACLE V10.2.0.1.0 - Production vsnsta=0
+vsnsql=14 vsnxtr=3
+Oracle Database 10g Express Edition Release 10.2.0.1.0 - Production
+Windows NT Version V6.2 
+CPU                 : 12 - type 586, 6 Physical Cores
+Process Affinity    : 0x00000000
+Memory (Avail/Total): Ph:10441M/16243M, Ph+PgF:10129M/18675M, VA:3134M/4095M
+Instance name: xe
+
+Redo thread mounted by this instance: 1
+
+Oracle process number: 11
+
+Windows thread id: 7536, image: ORACLE.EXE (CJQ0)
+
+
+*** 2019-03-03 12:02:58.498
+*** SERVICE NAME:(SYS$BACKGROUND) 2019-03-03 12:02:57.021
+*** SESSION ID:(40.1) 2019-03-03 12:02:57.021
+ktsmgtur(): TUR was not tuned for 2016 secs
+ktsmg_advance_slot(): MMNL advances slot after 2126 seconds
+*** 2019-03-04 06:34:18.835
+ktsmgtur(): TUR was not tuned for 25197 secs
+ktsmg_advance_slot(): MMNL advances slot after 25608 seconds
+*** 2019-03-04 23:52:50.269
+ktsmgtur(): TUR was not tuned for 10801 secs
+ktsmg_advance_slot(): MMNL advances slot after 11119 seconds
+*** 2019-03-06 08:19:14.283
+ktsmgtur(): TUR was not tuned for 7170 secs
+ktsmg_advance_slot(): MMNL advances slot after 7302 seconds
+*** 2019-03-07 11:54:11.349
+ktsmgtur(): TUR was not tuned for 39038 secs
+ktsmg_advance_slot(): MMNL advances slot after 39400 seconds
+*** 2019-03-08 09:47:08.781
+ktsmgtur(): TUR was not tuned for 8317 secs
+*** 2019-03-08 22:22:23.166
+ktsmgtur(): TUR was not tuned for 17233 secs
+ktsmg_advance_slot(): MMNL advances slot after 17589 seconds
+*** 2019-03-09 07:02:19.222
+ktsmgtur(): TUR was not tuned for 10905 secs
+ktsmg_advance_slot(): MMNL advances slot after 10985 seconds
+*** 2019-03-09 17:55:41.997
+ktsmgtur(): TUR was not tuned for 1203 secs
+ktsmg_advance_slot(): MMNL advances slot after 1585 seconds
+*** 2019-03-11 06:22:16.144
+ktsmgtur(): TUR was not tuned for 21460 secs
+ktsmg_advance_slot(): MMNL advances slot after 21781 seconds
+*** 2019-03-12 09:31:24.313
+ktsmgtur(): TUR was not tuned for 4469 secs
+*** 2019-03-13 00:48:09.272
+ktsmgtur(): TUR was not tuned for 10837 secs
+ktsmg_advance_slot(): MMNL advances slot after 11334 seconds
+*** 2019-03-13 11:51:14.237
+ktsmgtur(): TUR was not tuned for 2757 secs
+ktsmg_advance_slot(): MMNL advances slot after 3119 seconds

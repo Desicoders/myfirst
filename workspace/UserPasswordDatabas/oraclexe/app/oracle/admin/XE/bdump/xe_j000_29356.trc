@@ -1,0 +1,24 @@
+Dump file c:\oraclexe\app\oracle\admin\xe\bdump\xe_j000_29356.trc
+Fri May 03 03:24:33 2019
+ORACLE V10.2.0.1.0 - Production vsnsta=0
+vsnsql=14 vsnxtr=3
+Oracle Database 10g Express Edition Release 10.2.0.1.0 - Production
+Windows NT Version V6.2 
+CPU                 : 12 - type 586, 6 Physical Cores
+Process Affinity    : 0x00000000
+Memory (Avail/Total): Ph:9860M/16243M, Ph+PgF:9945M/21107M, VA:3127M/4095M
+Instance name: xe
+
+Redo thread mounted by this instance: 1
+
+Oracle process number: 22
+
+Windows thread id: 29356, image: ORACLE.EXE (J000)
+
+
+*** 2019-05-03 03:24:34.244
+*** ACTION NAME:(GATHER_STATS_JOB) 2019-05-03 03:24:33.977
+*** MODULE NAME:(DBMS_SCHEDULER) 2019-05-03 03:24:33.973
+*** SERVICE NAME:(SYS$USERS) 2019-05-03 03:24:33.973
+*** SESSION ID:(24.373) 2019-05-03 03:24:33.973
+ktsmgtur(): TUR was not tuned for 16395 secs
